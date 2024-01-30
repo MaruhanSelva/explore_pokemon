@@ -51,6 +51,7 @@ This data was then cleaned to transform the data in the following ways:
 <img width="590" alt="Screen Shot 2022-01-13 at 3 23 51 PM" src="https://user-images.githubusercontent.com/75972624/149404136-d84a0fb4-6e7d-4ddd-ab64-672ff7df7e01.png">
 
 Next, let's look at the boxplots to get a better idea of how the data is distributed and to see if there are any outliers.
+
 <img width="629" alt="Screen Shot 2022-01-13 at 3 24 10 PM" src="https://user-images.githubusercontent.com/75972624/149404142-f57c35dd-82cb-4b1b-be86-1f4df2294326.png">
 <img width="701" alt="Screen Shot 2022-01-13 at 3 24 24 PM" src="https://user-images.githubusercontent.com/75972624/149404163-1fa312c7-fb44-4a74-a11a-b19016d66351.png">
 <img width="587" alt="Screen Shot 2022-01-13 at 3 24 39 PM" src="https://user-images.githubusercontent.com/75972624/149404444-1b9a055f-fc21-49cb-af99-c04281949eca.png">
